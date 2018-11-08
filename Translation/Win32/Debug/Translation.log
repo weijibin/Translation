@@ -1,0 +1,13 @@
+﻿  Moc'ing languagetranslatorexe.h...
+  Generate moc_predefs.h
+  Uic'ing languagetranslatorexe.ui...
+  moc_languagetranslatorexe.cpp
+  IniFile.cpp
+  languagetranslatorexe.cpp
+languagetranslatorexe.cpp(20): warning C4192: 导入类型库“IFont”时自动排除“./ImportFile/EXCEL9.OLB”
+languagetranslatorexe.cpp(20): warning C4192: 导入类型库“IPicture”时自动排除“./ImportFile/EXCEL9.OLB”
+languagetranslatorexe.cpp(356): warning C4100: “index”: 未引用的形参
+  main.cpp
+  正在生成代码...
+  Translation.vcxproj -> E:\WorkStation\PreAndTeaching\Translation\..\Bin\Debug\X86\Translation.exe
+  Translation.vcxproj -> ..\Bin\Debug\X86\Translation.pdb (Full PDB)
